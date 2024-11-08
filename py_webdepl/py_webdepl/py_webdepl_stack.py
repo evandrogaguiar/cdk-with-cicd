@@ -4,7 +4,7 @@ from aws_cdk import (
     aws_cloudfront,
     aws_cloudfront_origins,
     aws_s3_deployment,
-    CfnOutput
+    CfnOutput,
 )
 from constructs import Construct
 import os
